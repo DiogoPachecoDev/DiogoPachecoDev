@@ -1,6 +1,11 @@
-### Experiência de trabalho
+## 💜 Olá, meu nome é <strong>{Diogo}!</strong>
 
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+> 📆 Desde 2022, venho mergulhando no mundo da programação. Tenho me dedicado a criar novas funcionalidades e resolver bugs em projetos web, sempre em busca de entregar soluções de qualidade.
+> 📚 Continuamente busco ampliar meu conhecimento através de cursos e projetos pessoais. Para mim, o aprendizado constante é essencial para alcançar meus objetivos profissionais.
+
+---
+
+## Experiência de trabalho
 
 [<img align="left" height="94px" width="94px" alt="Logo DocsService IT Solutions" src="https://storage.builderall.com//franquias/2/691311/editor-html/8534761.png"/>](https://storage.builderall.com//)
 
@@ -8,8 +13,9 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [**DocService IT Solutions**](https://docservice.com.br/) • Full-time \
 Linguagens & Tecnologias: `PHP`, `Node.JS`, `Javascript`, `TypeScript`, `SQL`, `Inteligência Artificial`, `CSS`, `HTML`
 
+---
 
-### Contato
+## Contato
 
 <p align="left">
   <a href="mailto:diogopachecopb269@gmail.com" title="Gmail">

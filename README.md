@@ -6,4 +6,4 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Desenvolvedor Web** \
 [**DocService IT Solutions**](https://docservice.com.br/) • Full-time \
-Linguagens & Tecnologias: `PHP`, `Node.JS`, `Javascript`, `TypeScript`, `SQL`, `CSS`, `HTML`
+Linguagens & Tecnologias: `PHP`, `Node.JS`, `Javascript`, `TypeScript`, `SQL`, `Inteligência Artificial`, `CSS`, `HTML`

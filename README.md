@@ -8,6 +8,9 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [**DocService IT Solutions**](https://docservice.com.br/) • Full-time \
 Linguagens & Tecnologias: `PHP`, `Node.JS`, `Javascript`, `TypeScript`, `SQL`, `Inteligência Artificial`, `CSS`, `HTML`
 
+
+### Contato
+
 <p align="left">
   <a href="mailto:seuemail@example.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:seuemail@example.com" alt="Gmail"/></a>

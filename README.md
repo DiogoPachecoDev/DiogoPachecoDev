@@ -4,7 +4,7 @@
 
 ---
 
-## Experiência de trabalho
+## 💼 Experiências de trabalho
 
 [<img align="left" height="94px" width="94px" alt="Logo DocsService IT Solutions" src="https://storage.builderall.com//franquias/2/691311/editor-html/8534761.png"/>](https://storage.builderall.com//)
 
@@ -14,7 +14,16 @@ Linguagens & Tecnologias: `PHP`, `Node.JS`, `Javascript`, `TypeScript`, `SQL`, `
 
 ---
 
-## Contato
+## 🚀 Minhas Skills
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="ExpressJS"/></code>
+<code><img height="32" src="https://github.com/github/explore/blob/main/topics/sql-server/sql-server.png" alt="SQL Server"/></code>
+
+---
+
+## ⭐ Contato
 
 <p align="left">
   <a href="mailto:diogopachecopb269@gmail.com" title="Gmail">

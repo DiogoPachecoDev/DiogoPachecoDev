@@ -12,8 +12,8 @@ Linguagens & Tecnologias: `PHP`, `Node.JS`, `Javascript`, `TypeScript`, `SQL`, `
 ### Contato
 
 <p align="left">
-  <a href="mailto:seuemail@example.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:seuemail@example.com" alt="Gmail"/></a>
+  <a href="mailto:diogopachecopb269@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:diogopachecopb269@gmail.com" alt="Gmail"/></a>
 
   <a href="https://www.linkedin.com/in/diogo-pacheco-dev/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diogo-pacheco-dev/" alt="LinkedIn"/></a>

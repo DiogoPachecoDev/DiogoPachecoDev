@@ -1,6 +1,7 @@
-## 💜 Olá, meu nome é <strong>{Diogo}!</strong>
+## 👋 Olá, meu nome é <strong>{Diogo}!</strong>
 
 > 📆 Desde 2022, venho mergulhando no mundo da programação. Tenho me dedicado a criar novas funcionalidades e resolver bugs em projetos web, sempre em busca de entregar soluções de qualidade.
+<br>
 > 📚 Continuamente busco ampliar meu conhecimento através de cursos e projetos pessoais. Para mim, o aprendizado constante é essencial para alcançar meus objetivos profissionais.
 
 ---

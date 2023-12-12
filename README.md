@@ -25,6 +25,7 @@ Linguagens & Tecnologias: `PHP`, `Node.JS`, `Javascript`, `TypeScript`, `SQL`, `
 <code><img height="32" title="Git" src="https://github.com/github/explore/blob/main/topics/git/git.png" alt="Git"/></code>
 <code><img height="32" title="Insomnia" src="https://user-images.githubusercontent.com/6686410/31217465-6adbbd18-a98d-11e7-9371-26d578182e9d.png" alt="Insomnia"/></code>
 <code><img height="32" title="HTML" src="https://github.com/github/explore/blob/main/topics/html/html.png" alt="HTML"/></code>
+<code><img height="32" title="CSS" src="https://github.com/github/explore/blob/main/topics/css/css.png" alt="CSS"/></code>
 
 ---
 

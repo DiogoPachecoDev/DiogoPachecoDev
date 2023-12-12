@@ -16,14 +16,15 @@ Linguagens & Tecnologias: `PHP`, `Node.JS`, `Javascript`, `TypeScript`, `SQL`, `
 
 ## 🚀 Minhas Skills
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="ExpressJS"/></code>
-<code><img height="32" src="https://github.com/github/explore/blob/main/topics/sql-server/sql-server.png" alt="SQL Server"/></code>
-<code><img height="32" src="https://github.com/github/explore/blob/main/topics/jquery/jquery.png" alt="JQuery"/></code>
-<code><img height="32" src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://github.com/github/explore/blob/main/topics/git/git.png" alt="Git"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/6686410/31217465-6adbbd18-a98d-11e7-9371-26d578182e9d.png" alt="Insomnia"/></code>
+<code><img height="32" title="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS"/></code>
+<code><img height="32" title="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" title="ExpressJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="ExpressJS"/></code>
+<code><img height="32" title="SQL Server" src="https://github.com/github/explore/blob/main/topics/sql-server/sql-server.png" alt="SQL Server"/></code>
+<code><img height="32" title="JQeury" src="https://github.com/github/explore/blob/main/topics/jquery/jquery.png" alt="JQuery"/></code>
+<code><img height="32" title="Bootstrap" src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" title="Git" src="https://github.com/github/explore/blob/main/topics/git/git.png" alt="Git"/></code>
+<code><img height="32" title="Insomnia" src="https://user-images.githubusercontent.com/6686410/31217465-6adbbd18-a98d-11e7-9371-26d578182e9d.png" alt="Insomnia"/></code>
+<code><img height="32" title="HTML" src="https://github.com/github/explore/blob/main/topics/html/html.png" alt="HTML"/></code>
 
 ---
 

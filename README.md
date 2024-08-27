@@ -10,18 +10,22 @@
 
 **Desenvolvedor Web** \
 [**DocService IT Solutions**](https://docservice.com.br/) • Full-time \
-Linguagens & Tecnologias: `JavaScript`, `TypeScript`, `NodeJS`, `PHP`, `SQL`
+Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `TypeScript`, `NodeJS`, `PHP`, `SQL`
 
 ---
 
 ## 🚀 Minhas Skills
 
+<code><img height="32" title="HTML" src="https://github.com/github/explore/blob/main/topics/html/html.png" alt="HTML"/></code>
+<code><img height="32" title="CSS" src="https://github.com/github/explore/blob/main/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" title="JavaScript" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png" alt="JavaScript"/></code>
 <code><img height="32" title="TypeScript" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png" alt="TypeScript"/></code>
 <code><img height="32" title="NodeJS" src="https://github.com/github/explore/blob/main/topics/nodejs/nodejs.png" alt="NodeJS"/></code>
 <code><img height="32" title="PHP" src="https://github.com/github/explore/blob/main/topics/php/php.png" alt="PHP"/></code>
 <code><img height="32" title="SQL" src="https://github.com/github/explore/blob/main/topics/sql/sql.png" alt="SQL"/></code>
 <code><img height="32" title="Git" src="https://github.com/github/explore/blob/main/topics/git/git.png" alt="Git"/></code>
+<code><img height="32" title="Bootstrap" src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" title="JQuery" src="https://github.com/github/explore/blob/main/topics/jquery/jquery.png" alt="JQuery"/></code>
 
 ---
 

@@ -10,7 +10,7 @@
 
 **Desenvolvedor Back-end** \
 [**DocService IT Solutions**](https://docservice.com.br/) • Full-time • Jun/2022 - momento \
-Linguagens & Tecnologias: `JavaScript`, `TypeScript`, `NodeJS`, `PHP`, `SQL`
+Linguagens & Tecnologias: `JavaScript`, `TypeScript`, `NodeJS`, `Express.js`, `Sequelize.js`, `PHP`, `SQL`
 
 ---
 
@@ -18,7 +18,9 @@ Linguagens & Tecnologias: `JavaScript`, `TypeScript`, `NodeJS`, `PHP`, `SQL`
 
 <code><img height="32" title="JavaScript" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png" alt="JavaScript"/></code>
 <code><img height="32" title="TypeScript" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png" alt="TypeScript"/></code>
-<code><img height="32" title="NodeJS" src="https://github.com/github/explore/blob/main/topics/nodejs/nodejs.png" alt="NodeJS"/></code>
+<code><img height="32" title="Node.js" src="https://github.com/github/explore/blob/main/topics/nodejs/nodejs.png" alt="Node.js"/></code>
+<code><img height="32" title="Express.js" src="https://github.com/github/explore/blob/main/topics/express/express.png" alt="Express.js"/></code>
+<code><img height="32" title="Sequelize.js" src="https://sequelize.org/img/logo.svg" alt="Sequelize.js"/></code>
 <code><img height="32" title="PHP" src="https://github.com/github/explore/blob/main/topics/php/php.png" alt="PHP"/></code>
 <code><img height="32" title="SQL" src="https://github.com/github/explore/blob/main/topics/sql/sql.png" alt="SQL"/></code>
 <code><img height="32" title="Git" src="https://github.com/github/explore/blob/main/topics/git/git.png" alt="Git"/></code>

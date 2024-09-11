@@ -8,14 +8,16 @@
 
 [<img align="left" height="94px" width="94px" alt="Logo DocsService IT Solutions" src="https://storage.builderall.com//franquias/2/691311/editor-html/8534761.png"/>](https://storage.builderall.com//)
 
-**Desenvolvedor Back-end** \
+**Desenvolvedor Full Stack** \
 [**DocService IT Solutions**](https://docservice.com.br/) • Full-time • Jun/2022 - momento \
-Linguagens & Tecnologias: `JavaScript`, `TypeScript`, `NodeJS`, `Express.js`, `Sequelize.js`, `PHP`, `SQL`
+Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `TypeScript`, `NodeJS`, `Express.js`, `Sequelize.js`, `PHP`, `SQL`
 
 ---
 
 ## 🚀 Minhas Skills
 
+<code><img height="32" title="HTML" src="https://github.com/github/explore/blob/main/topics/html/html.png" alt="HTML"/></code>
+<code><img height="32" title="CSS" src="https://github.com/github/explore/blob/main/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" title="JavaScript" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png" alt="JavaScript"/></code>
 <code><img height="32" title="TypeScript" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png" alt="TypeScript"/></code>
 <code><img height="32" title="Node.js" src="https://github.com/github/explore/blob/main/topics/nodejs/nodejs.png" alt="Node.js"/></code>

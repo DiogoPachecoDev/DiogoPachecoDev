@@ -8,7 +8,7 @@
 
 [<img align="left" height="94px" width="94px" alt="Logo DocsService IT Solutions" src="https://storage.builderall.com//franquias/2/691311/editor-html/8534761.png"/>](https://storage.builderall.com//)
 
-**Desenvolvedor Full Stack** \
+**Desenvolvedor Web** \
 [**DocService IT Solutions**](https://docservice.com.br/) • Full-time • Jun/2022 - momento \
 Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `TypeScript`, `NodeJS`, `Express.js`, `Sequelize.js`, `PHP`, `SQL`
 
